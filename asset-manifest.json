@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weatherApp/static/css/main.886db1b7.chunk.css",
+    "main.js": "/weatherApp/static/js/main.c7ed84cd.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.c7ed84cd.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.da867e2e.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.da867e2e.js.map",
+    "static/js/2.e7b757f3.chunk.js": "/weatherApp/static/js/2.e7b757f3.chunk.js",
+    "static/js/2.e7b757f3.chunk.js.map": "/weatherApp/static/js/2.e7b757f3.chunk.js.map",
+    "static/js/3.8d6d938d.chunk.js": "/weatherApp/static/js/3.8d6d938d.chunk.js",
+    "static/js/3.8d6d938d.chunk.js.map": "/weatherApp/static/js/3.8d6d938d.chunk.js.map",
+    "index.html": "/weatherApp/index.html",
+    "static/css/main.886db1b7.chunk.css.map": "/weatherApp/static/css/main.886db1b7.chunk.css.map",
+    "static/js/2.e7b757f3.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.e7b757f3.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/weatherApp/static/media/green-slate_1205-377.7d9a2c50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da867e2e.js",
+    "static/js/2.e7b757f3.chunk.js",
+    "static/css/main.886db1b7.chunk.css",
+    "static/js/main.c7ed84cd.chunk.js"
+  ]
+}
